@@ -37,7 +37,7 @@ Orden de procesos de QA:
 - Validar que el proceso de inserción de datos no permita insertar data basura, obteniendo un proceso de validación desde el front-end tanto con expresiones regulares.
     - endpoint: https://kentucky.com.ar/franquicias
 
-
+    _[LINK QA TEST](./caso_prueba_3/caso_prueba.md)_
 Reporte de Procesos de QA
 ---
 
