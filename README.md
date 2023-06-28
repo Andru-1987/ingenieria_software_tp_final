@@ -38,6 +38,8 @@ Orden de procesos de QA:
     - endpoint: https://kentucky.com.ar/franquicias
 
     _[LINK QA TEST](./caso_prueba_3/caso_prueba.md)_
+
+
 Reporte de Procesos de QA
 ---
 
